@@ -1,3 +1,3 @@
 
+export WAYLAND_DISPLAY=
 
-alias blob_run='target/debug/blob_royale_server'
